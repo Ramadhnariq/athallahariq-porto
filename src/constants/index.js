@@ -10,9 +10,9 @@ const navLinks = [
 ];
 
 const words = [
-  { text: "Predictions", imgpath: "/images/ideas.svg" },
-  { text: "Patterns", imgpath: "/images/concepts.svg" },
-  { text: "Smart Models", imgpath: "/images/code.svg" },
+  { text: "Predictions", imgpath: "public/images/ideas.svg" },
+  { text: "Patterns", imgpath: "public/images/concepts.svg" },
+  { text: "Smart Models", imgpath: "public/images/code.svg" },
 ]
 
 const counterItems = [
@@ -60,17 +60,17 @@ const logoIconsList = [
 
 const abilities = [
   {
-    imgpath: "/images/seo.png",
+    imgpath: "public/images/seo.png",
     title: "Analytical Problem-Solving",
     desc: "I approach challenges by starting with a deep dive into the data. I believe in structured analysis to identify root causes and build robust, data-driven solutions.",
   },
   {
-    imgpath: "/images/chat.png",
+    imgpath: "public/images/chat.png",
     title: "Actionable Insights",
     desc: "Beyond technical execution, my goal is to translate complex findings into clear and concise insights that are practical and can inform strategic decisions.",
   },
   {
-    imgpath: "/images/time.png",
+    imgpath: "public/images/time.png",
     title: "Curiosity & Continuous Learning",
     desc: "Driven by a strong curiosity for the 'why' behind the data. I am meticulous and committed to continuous learning to stay updated with the latest techniques in the data science field.",
   },
@@ -79,23 +79,23 @@ const abilities = [
 const techStackImgs = [
   {
     name: "Power BI",
-    imgpath: "/images/logos/Power BI.svg.png",
+    imgpath: "public/images/logos/Power BI.svg.png",
   },
   {
     name: "Python",
-    imgpath: "/images/logos/python.svg",
+    imgpath: "public/images/logos/python.svg",
   },
   {
     name: "MongoDB",
-    imgpath: "/images/logos/mongodb.svg",
+    imgpath: "public/images/logos/mongodb.svg",
   },
   {
     name: "Cassandra",
-    imgpath: "/images/logos/cassandra.svg",
+    imgpath: "public/images/logos/cassandra.svg",
   },
   {
     name: "Lua",
-    imgpath: "/images/logos/lua.svg",
+    imgpath: "public/images/logos/lua.svg",
   },
 ];
 
@@ -238,7 +238,7 @@ const socialImgs = [
   {
     name: "insta",
     url: "https://www.instagram.com/ramadhanariq",
-    imgpath: "/images/insta.png",
+    imgpath: "public/images/insta.png",
   },
   // {
   //   name: "fb",
@@ -253,7 +253,7 @@ const socialImgs = [
   {
     name: "linkedin",
     url: "https://www.linkedin.com/in/athallahariq-mahdi-ramadhan-61633b1b7/",
-    imgpath: "/images/linkedin.png",
+    imgpath: "public/images/linkedin.png",
   },
 ];
 

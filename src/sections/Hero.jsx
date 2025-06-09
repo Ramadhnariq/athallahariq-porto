@@ -15,7 +15,7 @@ const Hero = () => {
   return (
     <section id="hero" className="relative overflow-hidden">
         <div className="absolute top-0 left-0 z-10">
-            <img src="/images/bg.png" alt="background" />
+            <img src="public/images/bg.png" alt="background" />
         </div>
 
         <div className="hero-layout">
@@ -54,7 +54,7 @@ const Hero = () => {
             </header>
             <div className="flex justify-center items-center">
                     <img 
-                        src="/images/foto-profil.jpg" // Ganti dengan path foto Anda
+                        src="public/images/foto-profil.jpg" // Ganti dengan path foto Anda
                         alt="Foto Profil Athallahariq"
                         className="w-full max-w-md h-auto object-cover rounded-2xl -translate-y-6 -translate-x-30" // Class untuk styling gambar
                     />
