@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/Athallahariq-Portofolio/",
+  base: "/athallahariq-porto",
 })
