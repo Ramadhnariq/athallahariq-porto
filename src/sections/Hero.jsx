@@ -54,7 +54,7 @@ const Hero = () => {
             </header>
             <div className="flex justify-center items-center">
                     <img 
-                        src="/images/foto-profil.jpg" // Ganti dengan path foto Anda
+                        src="images/foto-profil.jpg" // Ganti dengan path foto Anda
                         alt="Foto Profil Athallahariq"
                         className="w-full max-w-md h-auto object-cover rounded-2xl -translate-y-6 -translate-x-30" // Class untuk styling gambar
                     />
