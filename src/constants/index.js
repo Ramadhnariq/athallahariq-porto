@@ -10,9 +10,9 @@ const navLinks = [
 ];
 
 const words = [
-  { text: "Predictions", imgpath: "public/images/ideas.svg" },
-  { text: "Patterns", imgpath: "public/images/concepts.svg" },
-  { text: "Smart Models", imgpath: "public/images/code.svg" },
+  { text: "Predictions", imgpath: "images/ideas.svg" },
+  { text: "Patterns", imgpath: "images/concepts.svg" },
+  { text: "Smart Models", imgpath: "images/code.svg" },
 ]
 
 const counterItems = [
@@ -60,17 +60,17 @@ const logoIconsList = [
 
 const abilities = [
   {
-    imgpath: "/images/seo.png",
+    imgpath: "images/seo.png",
     title: "Analytical Problem-Solving",
     desc: "I approach challenges by starting with a deep dive into the data. I believe in structured analysis to identify root causes and build robust, data-driven solutions.",
   },
   {
-    imgpath: "/images/chat.png",
+    imgpath: "images/chat.png",
     title: "Actionable Insights",
     desc: "Beyond technical execution, my goal is to translate complex findings into clear and concise insights that are practical and can inform strategic decisions.",
   },
   {
-    imgpath: "/images/time.png",
+    imgpath: "images/time.png",
     title: "Curiosity & Continuous Learning",
     desc: "Driven by a strong curiosity for the 'why' behind the data. I am meticulous and committed to continuous learning to stay updated with the latest techniques in the data science field.",
   },
@@ -79,23 +79,23 @@ const abilities = [
 const techStackImgs = [
   {
     name: "Power BI",
-    imgpath: "public/images/logos/Power BI.svg.png",
+    imgpath: "images/logos/Power BI.svg.png",
   },
   {
     name: "Python",
-    imgpath: "public/images/logos/python.svg",
+    imgpath: "images/logos/python.svg",
   },
   {
     name: "MongoDB",
-    imgpath: "public/images/logos/mongodb.svg",
+    imgpath: "images/logos/mongodb.svg",
   },
   {
     name: "Cassandra",
-    imgpath: "public/images/logos/cassandra.svg",
+    imgpath: "images/logos/cassandra.svg",
   },
   {
     name: "Lua",
-    imgpath: "public/images/logos/lua.svg",
+    imgpath: "images/logos/lua.svg",
   },
 ];
 
