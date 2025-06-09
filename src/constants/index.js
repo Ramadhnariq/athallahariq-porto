@@ -238,7 +238,7 @@ const socialImgs = [
   {
     name: "insta",
     url: "https://www.instagram.com/ramadhanariq",
-    imgpath: "public/images/insta.png",
+    imgpath: "images/insta.png",
   },
   // {
   //   name: "fb",
@@ -253,7 +253,7 @@ const socialImgs = [
   {
     name: "linkedin",
     url: "https://www.linkedin.com/in/athallahariq-mahdi-ramadhan-61633b1b7/",
-    imgpath: "public/images/linkedin.png",
+    imgpath: "images/linkedin.png",
   },
 ];
 
