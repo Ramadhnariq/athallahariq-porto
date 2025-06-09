@@ -60,17 +60,17 @@ const logoIconsList = [
 
 const abilities = [
   {
-    imgpath: "public/images/seo.png",
+    imgpath: "/images/seo.png",
     title: "Analytical Problem-Solving",
     desc: "I approach challenges by starting with a deep dive into the data. I believe in structured analysis to identify root causes and build robust, data-driven solutions.",
   },
   {
-    imgpath: "public/images/chat.png",
+    imgpath: "/images/chat.png",
     title: "Actionable Insights",
     desc: "Beyond technical execution, my goal is to translate complex findings into clear and concise insights that are practical and can inform strategic decisions.",
   },
   {
-    imgpath: "public/images/time.png",
+    imgpath: "/images/time.png",
     title: "Curiosity & Continuous Learning",
     desc: "Driven by a strong curiosity for the 'why' behind the data. I am meticulous and committed to continuous learning to stay updated with the latest techniques in the data science field.",
   },
